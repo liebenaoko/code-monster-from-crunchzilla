@@ -232,7 +232,7 @@ progress[value]::-moz-progress-bar {
 
 .jp-flag-holder {
 	position: absolute;
-	left: 80px;
+	right: 80px;
 	width: 22px;
 	height: 13px;
 	border: 1px solid #ccc;
