@@ -474,3 +474,4 @@ function imgToURL(filename) {
 for (var i=0; i < tutorImages.length; i++) {
 	(new Image()).src = imgToURL(tutorImages[i]);
 }
+
